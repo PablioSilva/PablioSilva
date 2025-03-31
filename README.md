@@ -4,9 +4,12 @@
 
 Meu nome é Pablio Junio Freitas Nogueira da Silva, tenho 28 anos e sou natural de Minas Gerais. Nasci em Belo Horizonte, mas atualmente resido em Betim. Fiz um curso profissionalizante de Analista de Suporte Técnico, onde tive meu primeiro contato com programação. Atualmente, estou cursando Engenharia de Software na faculdade Descomplica Online e estou em busca de uma oportunidade de estágio para desenvolver minhas habilidades e adquirir mais experiência na área.
 <br/>
-### 🤖 Linguagens e Tecnologias
 <br/>
 #Meu Portifólio - https://pabliosilva.github.io/Meu-portif-lio/
+
+### 🤖 Linguagens e Tecnologias
+<br/>
+
 <img 
     align="left" 
     alt="HTML"
